@@ -1,0 +1,965 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour apprev="20913" hassounds="0" appversion="7.1.2" start="node3">
+  <panorama hideabout="1" id="node3">
+    <input levelbiashidpi="1.000" levelbias="0.400" overlap="1" width="1520" levelingpitch="0" height="1520" leveltilesize="510" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0">
+      <level preload="0" height="1520" predecode="0" width="1520"/>
+      <level preload="0" height="760" predecode="0" width="760"/>
+      <level preload="1" height="380" predecode="1" width="380"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="180.432" fovmode="0">
+      <start tilt="3.62129" pan="-0.508609" fov="100" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" scaletofit="1" fovstereographic="270" tilt="90" pan="360" fov="120"/>
+    </view>
+    <userdata comment="" title="Außen Mitte" datetime="18.02.2024 10:34" heading="180.432" info="" description="Außen Mitte" source="" customnodeid="" copyright="" author="" altitude="302.30" latitude="49.593639" longitude="11.049278" nodeid="node3" tags="jpeg">
+      <mapcoords y="-0.251312" x="1.05743" y_floorplan_percent="21.0587" mapid="FloorPlan01" x_floorplan_percent="67.7817"/>
+    </userdata>
+    <hotspots smoothmovement="0" wordwrap="1" height="20" width="180">
+      <label textalpha="1" wordwrap="1" backgroundalpha="1" borderalpha="1" bordercolor="0x000000" backgroundcolor="0xffffff" width="180" background="1" border="1" height="20" borderradius="1" enabled="0" textcolor="0x000000"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot title="Außen links" description="" target="$fwd" pan="55.0027" distance="3.71033" url="{node2}" skinid="ht_node" tilt="-2.3" id="Point04"/>
+      <hotspot title="EG Eingang" description="" target="$fwd" pan="1.8778" distance="12.9636" url="{node10}" skinid="ht_node" tilt="0" id="Point05"/>
+      <hotspot title="EG Eingang HWR" url="{node48}" skinid="ht_node" description="" tilt="0" target="$fwd" pan="307.731" id="Point01"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomfov="20" zoomafterinfov="90" zoomoutpause="1" softedge="0" type="crossdissolve" zoomspeed="2" zoomin="0" enabled="1" delay="none" zoomafteroutfov="20" zoomout="0" blendcolor="0x000000"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
+    <control speedwheel="1" sensitivity="8" simulatemass="1" lockedwheel="0" invertwheel="1" dblclickfullscreen="0" lockedkeyboardzoom="0" contextvr="1" zoomcentercursor="1" hideabout="1" lockedkeyboard="0" contextprojections="0" rubberband="0" lockedmouse="0" contextfullscreen="1" invertcontrol="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node10">
+    <input levelbiashidpi="1.000" levelbias="0.400" overlap="1" width="1520" levelingpitch="0" height="1520" leveltilesize="510" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0">
+      <level preload="0" height="1520" predecode="0" width="1520"/>
+      <level preload="0" height="760" predecode="0" width="760"/>
+      <level preload="1" height="380" predecode="1" width="380"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-176.379" fovmode="0">
+      <start tilt="0" pan="0" fov="100" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" scaletofit="1" fovstereographic="270" tilt="90" pan="360" fov="120"/>
+    </view>
+    <userdata comment="" title="EG Eingang" datetime="18.02.2024 10:39" heading="-176.379" info="" description="EG Eingang" source="" customnodeid="" copyright="" author="" altitude="303.20" latitude="49.593528" longitude="11.049333" nodeid="node10" tags="jpeg">
+      <mapcoords y="-0.477905" x="1.06842" y_floorplan_percent="40.046" mapid="FloorPlan01" x_floorplan_percent="68.4859"/>
+    </userdata>
+    <hotspots smoothmovement="0" wordwrap="1" height="20" width="180">
+      <label textalpha="1" wordwrap="1" backgroundalpha="1" borderalpha="1" bordercolor="0x000000" backgroundcolor="0xffffff" width="180" background="1" border="1" height="20" borderradius="1" enabled="0" textcolor="0x000000"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot title="Außen Mitte" description="" target="$fwd" pan="-182.223" distance="12.9636" url="{node3}" skinid="ht_node" tilt="-3.8" id="Point02"/>
+      <hotspot title="EG Flur 1" description="" target="$fwd" pan="357.874" distance="1.94608" url="{node12}" skinid="ht_node" tilt="-3.11" id="Point03"/>
+      <hotspot title="Außen links" description="" target="$fwd" pan="-263.686" distance="15.5781" url="{node2}" skinid="ht_node" tilt="-5.26" id="Point04"/>
+      <hotspot title="EG Eingang HWR" url="{node48}" skinid="ht_node" description="" tilt="-1.93" target="$fwd" pan="-91.7392" id="Point01"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomfov="20" zoomafterinfov="90" zoomoutpause="1" softedge="0" type="crossdissolve" zoomspeed="2" zoomin="0" enabled="1" delay="none" zoomafteroutfov="20" zoomout="0" blendcolor="0x000000"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
+    <control speedwheel="1" sensitivity="8" simulatemass="1" lockedwheel="0" invertwheel="1" dblclickfullscreen="0" lockedkeyboardzoom="0" contextvr="1" zoomcentercursor="1" hideabout="1" lockedkeyboard="0" contextprojections="0" rubberband="0" lockedmouse="0" contextfullscreen="1" invertcontrol="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node48">
+    <input levelbiashidpi="1.000" levelbias="0.400" overlap="1" width="1520" levelingpitch="0" height="1520" leveltilesize="510" leveltileurl="tiles/node48/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0">
+      <level preload="0" height="1520" predecode="0" width="1520"/>
+      <level preload="0" height="760" predecode="0" width="760"/>
+      <level preload="1" height="380" predecode="1" width="380"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-180.767" fovmode="0">
+      <start tilt="0" pan="0" fov="100" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" scaletofit="1" fovstereographic="330" tilt="90" pan="360" fov="140"/>
+    </view>
+    <userdata comment="" title="EG Eingang HWR" datetime="12.10.2024 16:28" heading="-180.767" info="" description="EG Eingang HWR" source="" customnodeid="" copyright="" author="" latitude="" longitude="" nodeid="node48" tags="Pano2VR7">
+      <mapcoords y="-0.406494" x="0.664673" y_floorplan_percent="34.0621" mapid="FloorPlan01" x_floorplan_percent="42.6056"/>
+    </userdata>
+    <hotspots smoothmovement="0" wordwrap="1" height="20" width="180">
+      <label textalpha="1" wordwrap="1" backgroundalpha="1" borderalpha="1" bordercolor="0x000000" backgroundcolor="0xffffff" width="180" background="1" border="1" height="20" borderradius="1" enabled="0" textcolor="0x000000"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot title="Außen Mitte" url="{node3}" skinid="ht_node" description="" tilt="-3.85" target="$fwd" pan="-235.638" id="Point01"/>
+      <hotspot title="EG Eingang" url="{node10}" skinid="ht_node" description="" tilt="0.23" target="$fwd" pan="-272.217" id="Point02"/>
+      <hotspot title="Keller Eingang" url="{node56}" skinid="ht_node" description="" tilt="-26.07" target="$fwd" pan="-274.271" id="Point03"/>
+      <hotspot title="EG HWR" url="{node15}" skinid="ht_node" description="" tilt="5.32" target="$fwd" pan="-88.3912" id="Point04"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomfov="20" zoomafterinfov="90" zoomoutpause="1" softedge="0" type="crossdissolve" zoomspeed="2" zoomin="0" enabled="1" delay="none" zoomafteroutfov="20" zoomout="0" blendcolor="0x000000"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
+    <control speedwheel="1" sensitivity="8" simulatemass="1" lockedwheel="0" invertwheel="1" dblclickfullscreen="0" lockedkeyboardzoom="0" contextvr="1" zoomcentercursor="1" hideabout="1" lockedkeyboard="0" contextprojections="0" rubberband="0" lockedmouse="0" contextfullscreen="1" invertcontrol="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node2">
+    <input levelbiashidpi="1.000" levelbias="0.400" overlap="1" width="1520" levelingpitch="0" height="1520" leveltilesize="510" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0">
+      <level preload="0" height="1520" predecode="0" width="1520"/>
+      <level preload="0" height="760" predecode="0" width="760"/>
+      <level preload="1" height="380" predecode="1" width="380"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="181.92" fovmode="0">
+      <start tilt="0" pan="0" fov="100" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" scaletofit="1" fovstereographic="270" tilt="90" pan="360" fov="120"/>
+    </view>
+    <userdata comment="" title="Außen links" datetime="18.02.2024 10:36" heading="181.92" info="" description="Außen links" source="" customnodeid="" copyright="" author="" altitude="304.20" latitude="49.593667" longitude="11.049306" nodeid="node2" tags="jpeg">
+      <mapcoords y="-0.302124" x="1.49002" y_floorplan_percent="25.3165" mapid="FloorPlan01" x_floorplan_percent="95.5106"/>
+    </userdata>
+    <hotspots smoothmovement="0" wordwrap="1" height="20" width="180">
+      <label textalpha="1" wordwrap="1" backgroundalpha="1" borderalpha="1" bordercolor="0x000000" backgroundcolor="0xffffff" width="180" background="1" border="1" height="20" borderradius="1" enabled="0" textcolor="0x000000"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot title="Außen Mitte" description="" target="$fwd" pan="227.361" distance="3.71033" url="{node3}" skinid="ht_node" tilt="-1.24" id="Point02"/>
+      <hotspot title="Außen vorne links" description="" target="$fwd" pan="-0.0239" distance="18.5696" url="{node5}" skinid="ht_node" tilt="-0.68" id="Point03"/>
+      <hotspot title="EG Eingang" description="" target="$fwd" pan="272.063" distance="15.5781" url="{node10}" skinid="ht_node" tilt="-0.69" id="Point04"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomfov="20" zoomafterinfov="90" zoomoutpause="1" softedge="0" type="crossdissolve" zoomspeed="2" zoomin="0" enabled="1" delay="none" zoomafteroutfov="20" zoomout="0" blendcolor="0x000000"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
+    <control speedwheel="1" sensitivity="8" simulatemass="1" lockedwheel="0" invertwheel="1" dblclickfullscreen="0" lockedkeyboardzoom="0" contextvr="1" zoomcentercursor="1" hideabout="1" lockedkeyboard="0" contextprojections="0" rubberband="0" lockedmouse="0" contextfullscreen="1" invertcontrol="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node5">
+    <input levelbiashidpi="1.000" levelbias="0.400" overlap="1" width="1520" levelingpitch="0" height="1520" leveltilesize="510" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0">
+      <level preload="0" height="1520" predecode="0" width="1520"/>
+      <level preload="0" height="760" predecode="0" width="760"/>
+      <level preload="1" height="380" predecode="1" width="380"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="184.631" fovmode="0">
+      <start tilt="0" pan="0" fov="100" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" scaletofit="1" fovstereographic="270" tilt="90" pan="360" fov="120"/>
+    </view>
+    <userdata comment="" title="Außen vorne links" datetime="18.02.2024 10:38" heading="184.631" info="" description="Außen vorne links" source="" customnodeid="" copyright="" author="" altitude="304.50" latitude="49.593500" longitude="11.049306" nodeid="node5" tags="jpeg">
+      <mapcoords y="-1.11099" x="1.48865" y_floorplan_percent="93.0955" mapid="FloorPlan01" x_floorplan_percent="95.4225"/>
+    </userdata>
+    <hotspots smoothmovement="0" wordwrap="1" height="20" width="180">
+      <label textalpha="1" wordwrap="1" backgroundalpha="1" borderalpha="1" bordercolor="0x000000" backgroundcolor="0xffffff" width="180" background="1" border="1" height="20" borderradius="1" enabled="0" textcolor="0x000000"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot title="Außen links" description="" target="$fwd" pan="184.667" distance="18.5696" url="{node2}" skinid="ht_node" tilt="0" id="Point01"/>
+      <hotspot title="Außen vorne mitte" description="" target="$fwd" pan="274.213" distance="3.11346" url="{node6}" skinid="ht_node" tilt="0" id="Point02"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomfov="20" zoomafterinfov="90" zoomoutpause="1" softedge="0" type="crossdissolve" zoomspeed="2" zoomin="0" enabled="1" delay="none" zoomafteroutfov="20" zoomout="0" blendcolor="0x000000"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
+    <control speedwheel="1" sensitivity="8" simulatemass="1" lockedwheel="0" invertwheel="1" dblclickfullscreen="0" lockedkeyboardzoom="0" contextvr="1" zoomcentercursor="1" hideabout="1" lockedkeyboard="0" contextprojections="0" rubberband="0" lockedmouse="0" contextfullscreen="1" invertcontrol="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node6">
+    <input levelbiashidpi="1.000" levelbias="0.400" overlap="1" width="1520" levelingpitch="0" height="1520" leveltilesize="510" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0">
+      <level preload="0" height="1520" predecode="0" width="1520"/>
+      <level preload="0" height="760" predecode="0" width="760"/>
+      <level preload="1" height="380" predecode="1" width="380"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="180.012" fovmode="0">
+      <start tilt="0" pan="0" fov="100" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" scaletofit="1" fovstereographic="270" tilt="90" pan="360" fov="120"/>
+    </view>
+    <userdata comment="" title="Außen vorne mitte" datetime="18.02.2024 10:38" heading="180.012" info="" description="Außen vorne mitte" source="" customnodeid="" copyright="" author="" altitude="303.20" latitude="49.593528" longitude="11.049306" nodeid="node6" tags="jpeg">
+      <mapcoords y="-1.11237" x="1.03821" y_floorplan_percent="93.2106" mapid="FloorPlan01" x_floorplan_percent="66.5493"/>
+    </userdata>
+    <hotspots smoothmovement="0" wordwrap="1" height="20" width="180">
+      <label textalpha="1" wordwrap="1" backgroundalpha="1" borderalpha="1" bordercolor="0x000000" backgroundcolor="0xffffff" width="180" background="1" border="1" height="20" borderradius="1" enabled="0" textcolor="0x000000"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot title="Außen vorne links" description="" target="$fwd" pan="99.1643" distance="3.11346" url="{node5}" skinid="ht_node" tilt="-1.1" id="Point01"/>
+      <hotspot title="Außen vorne rechts" url="{node40}" skinid="ht_node" description="" tilt="0" target="$fwd" pan="270.054" id="Point02"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomfov="20" zoomafterinfov="90" zoomoutpause="1" softedge="0" type="crossdissolve" zoomspeed="2" zoomin="0" enabled="1" delay="none" zoomafteroutfov="20" zoomout="0" blendcolor="0x000000"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
+    <control speedwheel="1" sensitivity="8" simulatemass="1" lockedwheel="0" invertwheel="1" dblclickfullscreen="0" lockedkeyboardzoom="0" contextvr="1" zoomcentercursor="1" hideabout="1" lockedkeyboard="0" contextprojections="0" rubberband="0" lockedmouse="0" contextfullscreen="1" invertcontrol="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node40">
+    <input levelbiashidpi="1.000" levelbias="0.400" overlap="1" width="1520" levelingpitch="0" height="1520" leveltilesize="510" leveltileurl="tiles/node40/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0">
+      <level preload="0" height="1520" predecode="0" width="1520"/>
+      <level preload="0" height="760" predecode="0" width="760"/>
+      <level preload="1" height="380" predecode="1" width="380"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-173.373" fovmode="0">
+      <start tilt="0" pan="0" fov="100" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" scaletofit="1" fovstereographic="330" tilt="90" pan="360" fov="140"/>
+    </view>
+    <userdata comment="" title="Außen vorne rechts" datetime="07.09.2024 15:44" heading="-173.373" info="" description="Außen vorne rechts" source="" customnodeid="" copyright="" author="" latitude="" longitude="" nodeid="node40" tags="Pano2VR7">
+      <mapcoords y="-1.11923" x="0.477905" y_floorplan_percent="93.786" mapid="FloorPlan01" x_floorplan_percent="30.6338"/>
+    </userdata>
+    <hotspots smoothmovement="0" wordwrap="1" height="20" width="180">
+      <label textalpha="1" wordwrap="1" backgroundalpha="1" borderalpha="1" bordercolor="0x000000" backgroundcolor="0xffffff" width="180" background="1" border="1" height="20" borderradius="1" enabled="0" textcolor="0x000000"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot title="Außen vorne mitte" url="{node6}" skinid="ht_node" description="" tilt="-0.29" target="$fwd" pan="-267.681" id="Point01"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomfov="20" zoomafterinfov="90" zoomoutpause="1" softedge="0" type="crossdissolve" zoomspeed="2" zoomin="0" enabled="1" delay="none" zoomafteroutfov="20" zoomout="0" blendcolor="0x000000"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
+    <control speedwheel="1" sensitivity="8" simulatemass="1" lockedwheel="0" invertwheel="1" dblclickfullscreen="0" lockedkeyboardzoom="0" contextvr="1" zoomcentercursor="1" hideabout="1" lockedkeyboard="0" contextprojections="0" rubberband="0" lockedmouse="0" contextfullscreen="1" invertcontrol="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node12">
+    <input levelbiashidpi="1.000" levelbias="0.400" overlap="1" width="1520" levelingpitch="0" height="1520" leveltilesize="510" leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0">
+      <level preload="0" height="1520" predecode="0" width="1520"/>
+      <level preload="0" height="760" predecode="0" width="760"/>
+      <level preload="1" height="380" predecode="1" width="380"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="181.99" fovmode="0">
+      <start tilt="0" pan="0" fov="100" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" scaletofit="1" fovstereographic="270" tilt="90" pan="360" fov="120"/>
+    </view>
+    <userdata comment="" title="EG Flur 1" datetime="18.02.2024 10:39" heading="181.99" info="" description="EG Flur 1" source="" customnodeid="" copyright="" author="" altitude="303.00" latitude="49.593528" longitude="11.049306" nodeid="node12" tags="jpeg">
+      <mapcoords y="-0.580902" x="1.05743" y_floorplan_percent="48.6766" mapid="FloorPlan01" x_floorplan_percent="67.7817"/>
+    </userdata>
+    <hotspots smoothmovement="0" wordwrap="1" height="20" width="180">
+      <label textalpha="1" wordwrap="1" backgroundalpha="1" borderalpha="1" bordercolor="0x000000" backgroundcolor="0xffffff" width="180" background="1" border="1" height="20" borderradius="1" enabled="0" textcolor="0x000000"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot title="EG Eingang" description="" target="$fwd" pan="163.813" distance="1.94608" url="{node10}" skinid="ht_node" tilt="-5.17" id="Point04"/>
+      <hotspot title="EG Bad" description="" target="$fwd" pan="271.311" distance="12.5065" url="{node9}" skinid="ht_node" tilt="-4.02" id="Point01"/>
+      <hotspot title="EG Treppe" url="{node54}" skinid="ht_node" description="" tilt="-1.17" target="$fwd" pan="0.546299" id="Point02"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomfov="20" zoomafterinfov="90" zoomoutpause="1" softedge="0" type="crossdissolve" zoomspeed="2" zoomin="0" enabled="1" delay="none" zoomafteroutfov="20" zoomout="0" blendcolor="0x000000"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
+    <control speedwheel="1" sensitivity="8" simulatemass="1" lockedwheel="0" invertwheel="1" dblclickfullscreen="0" lockedkeyboardzoom="0" contextvr="1" zoomcentercursor="1" hideabout="1" lockedkeyboard="0" contextprojections="0" rubberband="0" lockedmouse="0" contextfullscreen="1" invertcontrol="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node54">
+    <input levelbiashidpi="1.000" levelbias="0.400" overlap="1" width="1520" levelingpitch="0" height="1520" leveltilesize="510" leveltileurl="tiles/node54/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0">
+      <level preload="0" height="1520" predecode="0" width="1520"/>
+      <level preload="0" height="760" predecode="0" width="760"/>
+      <level preload="1" height="380" predecode="1" width="380"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="181.666" fovmode="0">
+      <start tilt="0" pan="0" fov="100" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" scaletofit="1" fovstereographic="330" tilt="90" pan="360" fov="140"/>
+    </view>
+    <userdata comment="" title="EG Treppe" datetime="12.10.2024 16:32" heading="181.666" info="" description="EG Treppe" source="" customnodeid="" copyright="" author="" latitude="" longitude="" nodeid="node54" tags="Pano2VR7">
+      <mapcoords y="-0.77179" x="1.07941" y_floorplan_percent="64.672" mapid="FloorPlan01" x_floorplan_percent="69.1901"/>
+    </userdata>
+    <hotspots smoothmovement="0" wordwrap="1" height="20" width="180">
+      <label textalpha="1" wordwrap="1" backgroundalpha="1" borderalpha="1" bordercolor="0x000000" backgroundcolor="0xffffff" width="180" background="1" border="1" height="20" borderradius="1" enabled="0" textcolor="0x000000"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot title="EG Flur 1" url="{node12}" skinid="ht_node" description="" tilt="-4.04" target="$fwd" pan="186.302" id="Point01"/>
+      <hotspot title="EG Esszimmer" url="{node11}" skinid="ht_node" description="" tilt="-4.02" target="$fwd" pan="67.8724" id="Point02"/>
+      <hotspot title="EG Wohnzimmer 1" url="{node17}" skinid="ht_node" description="" tilt="-3.9" target="$fwd" pan="280.452" id="Point03"/>
+      <hotspot title="" url="{node31}" skinid="ht_node" description="" tilt="21.25" target="" pan="-19.32" id="OG Flur"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomfov="20" zoomafterinfov="90" zoomoutpause="1" softedge="0" type="crossdissolve" zoomspeed="2" zoomin="0" enabled="1" delay="none" zoomafteroutfov="20" zoomout="0" blendcolor="0x000000"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
+    <control speedwheel="1" sensitivity="8" simulatemass="1" lockedwheel="0" invertwheel="1" dblclickfullscreen="0" lockedkeyboardzoom="0" contextvr="1" zoomcentercursor="1" hideabout="1" lockedkeyboard="0" contextprojections="0" rubberband="0" lockedmouse="0" contextfullscreen="1" invertcontrol="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node9">
+    <input levelbiashidpi="1.000" levelbias="0.400" overlap="1" width="1520" levelingpitch="0" height="1520" leveltilesize="510" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0">
+      <level preload="0" height="1520" predecode="0" width="1520"/>
+      <level preload="0" height="760" predecode="0" width="760"/>
+      <level preload="1" height="380" predecode="1" width="380"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-180.198" fovmode="0">
+      <start tilt="0" pan="0" fov="100" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" scaletofit="1" fovstereographic="270" tilt="90" pan="360" fov="120"/>
+    </view>
+    <userdata comment="" title="EG Bad" datetime="18.02.2024 10:42" heading="-180.198" info="" description="EG Bad" source="" customnodeid="" copyright="" author="" altitude="304.00" latitude="49.593639" longitude="11.049278" nodeid="node9" tags="jpeg">
+      <mapcoords y="-0.591888" x="0.896759" y_floorplan_percent="49.5972" mapid="FloorPlan01" x_floorplan_percent="57.4824"/>
+    </userdata>
+    <hotspots smoothmovement="0" wordwrap="1" height="20" width="180">
+      <label textalpha="1" wordwrap="1" backgroundalpha="1" borderalpha="1" bordercolor="0x000000" backgroundcolor="0xffffff" width="180" background="1" border="1" height="20" borderradius="1" enabled="0" textcolor="0x000000"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot title="EG Flur 1" description="" target="$fwd" pan="-266.187" distance="12.5065" url="{node12}" skinid="ht_node" tilt="-2.77" id="Point01"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomfov="20" zoomafterinfov="90" zoomoutpause="1" softedge="0" type="crossdissolve" zoomspeed="2" zoomin="0" enabled="1" delay="none" zoomafteroutfov="20" zoomout="0" blendcolor="0x000000"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
+    <control speedwheel="1" sensitivity="8" simulatemass="1" lockedwheel="0" invertwheel="1" dblclickfullscreen="0" lockedkeyboardzoom="0" contextvr="1" zoomcentercursor="1" hideabout="1" lockedkeyboard="0" contextprojections="0" rubberband="0" lockedmouse="0" contextfullscreen="1" invertcontrol="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node11">
+    <input levelbiashidpi="1.000" levelbias="0.400" overlap="1" width="1520" levelingpitch="0" height="1520" leveltilesize="510" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0">
+      <level preload="0" height="1520" predecode="0" width="1520"/>
+      <level preload="0" height="760" predecode="0" width="760"/>
+      <level preload="1" height="380" predecode="1" width="380"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="182.032" fovmode="0">
+      <start tilt="0" pan="0" fov="100" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" scaletofit="1" fovstereographic="270" tilt="90" pan="360" fov="120"/>
+    </view>
+    <userdata comment="" title="EG Esszimmer" datetime="18.02.2024 10:41" heading="182.032" info="" description="EG Esszimmer" source="" customnodeid="" copyright="" author="" altitude="303.30" latitude="49.593556" longitude="11.049250" nodeid="node11" tags="jpeg">
+      <mapcoords y="-0.948944" x="1.27441" y_floorplan_percent="79.5167" mapid="FloorPlan01" x_floorplan_percent="81.6901"/>
+    </userdata>
+    <hotspots smoothmovement="0" wordwrap="1" height="20" width="180">
+      <label textalpha="1" wordwrap="1" backgroundalpha="1" borderalpha="1" bordercolor="0x000000" backgroundcolor="0xffffff" width="180" background="1" border="1" height="20" borderradius="1" enabled="0" textcolor="0x000000"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot title="EG Küche" description="" target="$fwd" pan="165.379" distance="3.71034" url="{node16}" skinid="ht_node" tilt="-6.88" id="Point02"/>
+      <hotspot title="EG Treppe" url="{node54}" skinid="ht_node" description="" tilt="-3.45" target="$fwd" pan="243.578" id="Point01"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomfov="20" zoomafterinfov="90" zoomoutpause="1" softedge="0" type="crossdissolve" zoomspeed="2" zoomin="0" enabled="1" delay="none" zoomafteroutfov="20" zoomout="0" blendcolor="0x000000"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
+    <control speedwheel="1" sensitivity="8" simulatemass="1" lockedwheel="0" invertwheel="1" dblclickfullscreen="0" lockedkeyboardzoom="0" contextvr="1" zoomcentercursor="1" hideabout="1" lockedkeyboard="0" contextprojections="0" rubberband="0" lockedmouse="0" contextfullscreen="1" invertcontrol="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node16">
+    <input levelbiashidpi="1.000" levelbias="0.400" overlap="1" width="1520" levelingpitch="0" height="1520" leveltilesize="510" leveltileurl="tiles/node16/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0">
+      <level preload="0" height="1520" predecode="0" width="1520"/>
+      <level preload="0" height="760" predecode="0" width="760"/>
+      <level preload="1" height="380" predecode="1" width="380"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="177.266" fovmode="0">
+      <start tilt="0" pan="0" fov="100" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" scaletofit="1" fovstereographic="270" tilt="90" pan="360" fov="120"/>
+    </view>
+    <userdata comment="" title="EG Küche" datetime="18.02.2024 10:40" heading="177.266" info="" description="EG Küche" source="" customnodeid="" copyright="" author="" altitude="303.10" latitude="49.593528" longitude="11.049278" nodeid="node16" tags="jpeg">
+      <mapcoords y="-0.656433" x="1.28265" y_floorplan_percent="55.0058" mapid="FloorPlan01" x_floorplan_percent="82.2183"/>
+    </userdata>
+    <hotspots smoothmovement="0" wordwrap="1" height="20" width="180">
+      <label textalpha="1" wordwrap="1" backgroundalpha="1" borderalpha="1" bordercolor="0x000000" backgroundcolor="0xffffff" width="180" background="1" border="1" height="20" borderradius="1" enabled="0" textcolor="0x000000"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot title="EG Esszimmer" description="" target="$fwd" pan="351.393" distance="3.71034" url="{node11}" skinid="ht_node" tilt="-2.17" id="Point02"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomfov="20" zoomafterinfov="90" zoomoutpause="1" softedge="0" type="crossdissolve" zoomspeed="2" zoomin="0" enabled="1" delay="none" zoomafteroutfov="20" zoomout="0" blendcolor="0x000000"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
+    <control speedwheel="1" sensitivity="8" simulatemass="1" lockedwheel="0" invertwheel="1" dblclickfullscreen="0" lockedkeyboardzoom="0" contextvr="1" zoomcentercursor="1" hideabout="1" lockedkeyboard="0" contextprojections="0" rubberband="0" lockedmouse="0" contextfullscreen="1" invertcontrol="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node17">
+    <input levelbiashidpi="1.000" levelbias="0.400" overlap="1" width="1520" levelingpitch="0" height="1520" leveltilesize="510" leveltileurl="tiles/node17/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0">
+      <level preload="0" height="1520" predecode="0" width="1520"/>
+      <level preload="0" height="760" predecode="0" width="760"/>
+      <level preload="1" height="380" predecode="1" width="380"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="182.251" fovmode="0">
+      <start tilt="0" pan="0" fov="100" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" scaletofit="1" fovstereographic="270" tilt="90" pan="360" fov="120"/>
+    </view>
+    <userdata comment="" title="EG Wohnzimmer 1" datetime="18.02.2024 10:42" heading="182.251" info="" description="EG Wohnzimmer 1" source="" customnodeid="" copyright="" author="" altitude="303.40" latitude="49.593611" longitude="11.049222" nodeid="node17" tags="jpeg">
+      <mapcoords y="-0.874786" x="0.712738" y_floorplan_percent="73.3026" mapid="FloorPlan01" x_floorplan_percent="45.6866"/>
+    </userdata>
+    <hotspots smoothmovement="0" wordwrap="1" height="20" width="180">
+      <label textalpha="1" wordwrap="1" backgroundalpha="1" borderalpha="1" bordercolor="0x000000" backgroundcolor="0xffffff" width="180" background="1" border="1" height="20" borderradius="1" enabled="0" textcolor="0x000000"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot title="EG AZ" description="" target="$fwd" pan="303.293" distance="3.71034" url="{node8}" skinid="ht_node" tilt="-3.12" id="Point02"/>
+      <hotspot title="EG HWR" description="" target="$fwd" pan="229.18" distance="6.44011" url="{node15}" skinid="ht_node" tilt="-3.04" id="Point03"/>
+      <hotspot title="EG Treppe" url="{node54}" skinid="ht_node" description="" tilt="-2.79" target="$fwd" pan="95.6772" id="Point01"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomfov="20" zoomafterinfov="90" zoomoutpause="1" softedge="0" type="crossdissolve" zoomspeed="2" zoomin="0" enabled="1" delay="none" zoomafteroutfov="20" zoomout="0" blendcolor="0x000000"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
+    <control speedwheel="1" sensitivity="8" simulatemass="1" lockedwheel="0" invertwheel="1" dblclickfullscreen="0" lockedkeyboardzoom="0" contextvr="1" zoomcentercursor="1" hideabout="1" lockedkeyboard="0" contextprojections="0" rubberband="0" lockedmouse="0" contextfullscreen="1" invertcontrol="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node8">
+    <input levelbiashidpi="1.000" levelbias="0.400" overlap="1" width="1520" levelingpitch="0" height="1520" leveltilesize="510" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0">
+      <level preload="0" height="1520" predecode="0" width="1520"/>
+      <level preload="0" height="760" predecode="0" width="760"/>
+      <level preload="1" height="380" predecode="1" width="380"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="186.051" fovmode="0">
+      <start tilt="0" pan="0" fov="100" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" scaletofit="1" fovstereographic="270" tilt="90" pan="360" fov="120"/>
+    </view>
+    <userdata comment="" title="EG AZ" datetime="18.02.2024 10:43" heading="186.051" info="" description="EG AZ" source="" customnodeid="" copyright="" author="" altitude="303.60" latitude="49.593583" longitude="11.049194" nodeid="node8" tags="jpeg">
+      <mapcoords y="-0.913239" x="0.298004" y_floorplan_percent="76.5247" mapid="FloorPlan01" x_floorplan_percent="19.1021"/>
+    </userdata>
+    <hotspots smoothmovement="0" wordwrap="1" height="20" width="180">
+      <label textalpha="1" wordwrap="1" backgroundalpha="1" borderalpha="1" bordercolor="0x000000" backgroundcolor="0xffffff" width="180" background="1" border="1" height="20" borderradius="1" enabled="0" textcolor="0x000000"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot title="EG Wohnzimmer 1" description="" target="$fwd" pan="67.4535" distance="3.71034" url="{node17}" skinid="ht_node" tilt="-2.17" id="Point02"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomfov="20" zoomafterinfov="90" zoomoutpause="1" softedge="0" type="crossdissolve" zoomspeed="2" zoomin="0" enabled="1" delay="none" zoomafteroutfov="20" zoomout="0" blendcolor="0x000000"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
+    <control speedwheel="1" sensitivity="8" simulatemass="1" lockedwheel="0" invertwheel="1" dblclickfullscreen="0" lockedkeyboardzoom="0" contextvr="1" zoomcentercursor="1" hideabout="1" lockedkeyboard="0" contextprojections="0" rubberband="0" lockedmouse="0" contextfullscreen="1" invertcontrol="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node15">
+    <input levelbiashidpi="1.000" levelbias="0.400" overlap="1" width="1520" levelingpitch="0" height="1520" leveltilesize="510" leveltileurl="tiles/node15/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0">
+      <level preload="0" height="1520" predecode="0" width="1520"/>
+      <level preload="0" height="760" predecode="0" width="760"/>
+      <level preload="1" height="380" predecode="1" width="380"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="184.022" fovmode="0">
+      <start tilt="0" pan="0" fov="100" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" scaletofit="1" fovstereographic="270" tilt="90" pan="360" fov="120"/>
+    </view>
+    <userdata comment="" title="EG HWR" datetime="18.02.2024 10:43" heading="184.022" info="" description="EG HWR" source="" customnodeid="" copyright="" author="" altitude="303.80" latitude="49.593556" longitude="11.049194" nodeid="node15" tags="jpeg">
+      <mapcoords y="-0.543823" x="0.259552" y_floorplan_percent="45.5696" mapid="FloorPlan01" x_floorplan_percent="16.6373"/>
+    </userdata>
+    <hotspots smoothmovement="0" wordwrap="1" height="20" width="180">
+      <label textalpha="1" wordwrap="1" backgroundalpha="1" borderalpha="1" bordercolor="0x000000" backgroundcolor="0xffffff" width="180" background="1" border="1" height="20" borderradius="1" enabled="0" textcolor="0x000000"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot title="EG Wohnzimmer 1" description="" target="$fwd" pan="55.3009" distance="6.44011" url="{node17}" skinid="ht_node" tilt="-2.59" id="Point02"/>
+      <hotspot title="EG Eingang HWR" url="{node48}" skinid="ht_node" description="" tilt="-3.48" target="$fwd" pan="121.148" id="Point01"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomfov="20" zoomafterinfov="90" zoomoutpause="1" softedge="0" type="crossdissolve" zoomspeed="2" zoomin="0" enabled="1" delay="none" zoomafteroutfov="20" zoomout="0" blendcolor="0x000000"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
+    <control speedwheel="1" sensitivity="8" simulatemass="1" lockedwheel="0" invertwheel="1" dblclickfullscreen="0" lockedkeyboardzoom="0" contextvr="1" zoomcentercursor="1" hideabout="1" lockedkeyboard="0" contextprojections="0" rubberband="0" lockedmouse="0" contextfullscreen="1" invertcontrol="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node28">
+    <input levelbiashidpi="1.000" levelbias="0.400" overlap="1" width="1520" levelingpitch="0" height="1520" leveltilesize="510" leveltileurl="tiles/node28/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0">
+      <level preload="0" height="1520" predecode="0" width="1520"/>
+      <level preload="0" height="760" predecode="0" width="760"/>
+      <level preload="1" height="380" predecode="1" width="380"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-176.557" fovmode="0">
+      <start tilt="0" pan="0" fov="100" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" scaletofit="1" fovstereographic="270" tilt="90" pan="360" fov="120"/>
+    </view>
+    <userdata comment="" title="OG Bad" datetime="18.02.2024 10:45" heading="-176.557" info="" description="OG Bad" source="" customnodeid="" copyright="" author="" altitude="304.50" latitude="49.593583" longitude="11.049250" nodeid="node28" tags="jpeg">
+      <mapcoords y="-0.521851" x="1.22223" y_floorplan_percent="46.6258" mapid="FloorPlan02" x_floorplan_percent="78.6914"/>
+    </userdata>
+    <hotspots smoothmovement="0" wordwrap="1" height="20" width="180">
+      <label textalpha="1" wordwrap="1" backgroundalpha="1" borderalpha="1" bordercolor="0x000000" backgroundcolor="0xffffff" width="180" background="1" border="1" height="20" borderradius="1" enabled="0" textcolor="0x000000"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot title="OG Flur 3" url="{node33}" skinid="ht_node" description="" tilt="-1.7" target="$fwd" pan="-67.4009" id="Point01"/>
+      <hotspot title="OG Bad Dusche" description="" target="$fwd" pan="-222.015" distance="8.55519" url="{node61}" skinid="ht_node" tilt="0.82" id="Point02"/>
+      <hotspot title="OG Bad WC" description="" target="$fwd" pan="-296.646" distance="8.55519" url="{node62}" skinid="ht_node" tilt="0.09" id="Point03"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomfov="20" zoomafterinfov="90" zoomoutpause="1" softedge="0" type="crossdissolve" zoomspeed="2" zoomin="0" enabled="1" delay="none" zoomafteroutfov="20" zoomout="0" blendcolor="0x000000"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
+    <control speedwheel="1" sensitivity="8" simulatemass="1" lockedwheel="0" invertwheel="1" dblclickfullscreen="0" lockedkeyboardzoom="0" contextvr="1" zoomcentercursor="1" hideabout="1" lockedkeyboard="0" contextprojections="0" rubberband="0" lockedmouse="0" contextfullscreen="1" invertcontrol="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node31">
+    <input levelbiashidpi="1.000" levelbias="0.400" overlap="1" width="1520" levelingpitch="0" height="1520" leveltilesize="510" leveltileurl="tiles/node31/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0">
+      <level preload="0" height="1520" predecode="0" width="1520"/>
+      <level preload="0" height="760" predecode="0" width="760"/>
+      <level preload="1" height="380" predecode="1" width="380"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-180.344" fovmode="0">
+      <start tilt="0" pan="0" fov="100" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" scaletofit="1" fovstereographic="270" tilt="90" pan="360" fov="120"/>
+    </view>
+    <userdata comment="" title="OG Flur 1" datetime="18.02.2024 10:44" heading="-180.344" info="" description="OG Flur 1" source="" customnodeid="" copyright="" author="" altitude="304.50" latitude="49.593611" longitude="11.049222" nodeid="node31" tags="jpeg">
+      <mapcoords y="-0.725098" x="0.85556" y_floorplan_percent="64.7853" mapid="FloorPlan02" x_floorplan_percent="55.084"/>
+    </userdata>
+    <hotspots smoothmovement="0" wordwrap="1" height="20" width="180">
+      <label textalpha="1" wordwrap="1" backgroundalpha="1" borderalpha="1" bordercolor="0x000000" backgroundcolor="0xffffff" width="180" background="1" border="1" height="20" borderradius="1" enabled="0" textcolor="0x000000"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot title="OG Flur 2" description="" target="$fwd" pan="-274.44" distance="3.11346" url="{node32}" skinid="ht_node" tilt="-5.33" id="Point03"/>
+      <hotspot title="OG Bastelzimmer" description="" target="$fwd" pan="-80.7388" distance="3.11346" url="{node30}" skinid="ht_node" tilt="-2.19" id="Point01"/>
+      <hotspot title="" description="" target="" pan="-355.41" distance="12.2142" url="{node43}" skinid="ht_node" tilt="26.97" id="DG Flur"/>
+      <hotspot title="" url="{node54}" skinid="ht_node" description="" tilt="-31.65" target="" pan="-354.42" id="EG Treppe"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomfov="20" zoomafterinfov="90" zoomoutpause="1" softedge="0" type="crossdissolve" zoomspeed="2" zoomin="0" enabled="1" delay="none" zoomafteroutfov="20" zoomout="0" blendcolor="0x000000"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
+    <control speedwheel="1" sensitivity="8" simulatemass="1" lockedwheel="0" invertwheel="1" dblclickfullscreen="0" lockedkeyboardzoom="0" contextvr="1" zoomcentercursor="1" hideabout="1" lockedkeyboard="0" contextprojections="0" rubberband="0" lockedmouse="0" contextfullscreen="1" invertcontrol="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node32">
+    <input levelbiashidpi="1.000" levelbias="0.400" overlap="1" width="1520" levelingpitch="0" height="1520" leveltilesize="510" leveltileurl="tiles/node32/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0">
+      <level preload="0" height="1520" predecode="0" width="1520"/>
+      <level preload="0" height="760" predecode="0" width="760"/>
+      <level preload="1" height="380" predecode="1" width="380"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="184.802" fovmode="0">
+      <start tilt="0" pan="0" fov="100" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" scaletofit="1" fovstereographic="270" tilt="90" pan="360" fov="120"/>
+    </view>
+    <userdata comment="" title="OG Flur 2" datetime="18.02.2024 10:44" heading="184.802" info="" description="OG Flur 2" source="" customnodeid="" copyright="" author="" altitude="304.60" latitude="49.593583" longitude="11.049222" nodeid="node32" tags="jpeg">
+      <mapcoords y="-0.733337" x="1.00662" y_floorplan_percent="65.5215" mapid="FloorPlan02" x_floorplan_percent="64.8099"/>
+    </userdata>
+    <hotspots smoothmovement="0" wordwrap="1" height="20" width="180">
+      <label textalpha="1" wordwrap="1" backgroundalpha="1" borderalpha="1" bordercolor="0x000000" backgroundcolor="0xffffff" width="180" background="1" border="1" height="20" borderradius="1" enabled="0" textcolor="0x000000"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot title="OG Flur 1" description="" target="$fwd" pan="270.386" distance="3.11346" url="{node31}" skinid="ht_node" tilt="-5.47" id="Point03"/>
+      <hotspot title="OG Flur 3" description="" target="$fwd" pan="179.287" distance="2.01816" url="{node33}" skinid="ht_node" tilt="-4.25" id="Point01"/>
+      <hotspot title="OG KiZi" description="" target="$fwd" pan="68.5309" distance="11.131" url="{node69}" skinid="ht_node" tilt="-3" id="Point02"/>
+      <hotspot title="" description="" target="" pan="-18.45" distance="10.0703" url="{node43}" skinid="ht_node" tilt="22.39" id="DG Flur"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomfov="20" zoomafterinfov="90" zoomoutpause="1" softedge="0" type="crossdissolve" zoomspeed="2" zoomin="0" enabled="1" delay="none" zoomafteroutfov="20" zoomout="0" blendcolor="0x000000"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
+    <control speedwheel="1" sensitivity="8" simulatemass="1" lockedwheel="0" invertwheel="1" dblclickfullscreen="0" lockedkeyboardzoom="0" contextvr="1" zoomcentercursor="1" hideabout="1" lockedkeyboard="0" contextprojections="0" rubberband="0" lockedmouse="0" contextfullscreen="1" invertcontrol="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node33">
+    <input levelbiashidpi="1.000" levelbias="0.400" overlap="1" width="1520" levelingpitch="0" height="1520" leveltilesize="510" leveltileurl="tiles/node33/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0">
+      <level preload="0" height="1520" predecode="0" width="1520"/>
+      <level preload="0" height="760" predecode="0" width="760"/>
+      <level preload="1" height="380" predecode="1" width="380"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="184.598" fovmode="0">
+      <start tilt="0" pan="0" fov="100" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" scaletofit="1" fovstereographic="270" tilt="90" pan="360" fov="120"/>
+    </view>
+    <userdata comment="" title="OG Flur 3" datetime="18.02.2024 10:45" heading="184.598" info="" description="OG Flur 3" source="" customnodeid="" copyright="" author="" altitude="304.40" latitude="49.593583" longitude="11.049250" nodeid="node33" tags="jpeg">
+      <mapcoords y="-0.553436" x="1.00388" y_floorplan_percent="49.4479" mapid="FloorPlan02" x_floorplan_percent="64.6331"/>
+    </userdata>
+    <hotspots smoothmovement="0" wordwrap="1" height="20" width="180">
+      <label textalpha="1" wordwrap="1" backgroundalpha="1" borderalpha="1" bordercolor="0x000000" backgroundcolor="0xffffff" width="180" background="1" border="1" height="20" borderradius="1" enabled="0" textcolor="0x000000"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot title="OG Flur 4" description="" target="$fwd" pan="274.797" distance="3.11346" url="{node34}" skinid="ht_node" tilt="-1.5" id="Point01"/>
+      <hotspot title="OG Bad" url="{node28}" skinid="ht_node" description="" tilt="-1.99" target="$fwd" pan="91.5741" id="Point02"/>
+      <hotspot title="OG Flur 2" description="" target="$fwd" pan="1.45268" distance="2.01816" url="{node32}" skinid="ht_node" tilt="-1.16" id="Point04"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomfov="20" zoomafterinfov="90" zoomoutpause="1" softedge="0" type="crossdissolve" zoomspeed="2" zoomin="0" enabled="1" delay="none" zoomafteroutfov="20" zoomout="0" blendcolor="0x000000"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
+    <control speedwheel="1" sensitivity="8" simulatemass="1" lockedwheel="0" invertwheel="1" dblclickfullscreen="0" lockedkeyboardzoom="0" contextvr="1" zoomcentercursor="1" hideabout="1" lockedkeyboard="0" contextprojections="0" rubberband="0" lockedmouse="0" contextfullscreen="1" invertcontrol="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node34">
+    <input levelbiashidpi="1.000" levelbias="0.400" overlap="1" width="1520" levelingpitch="0" height="1520" leveltilesize="510" leveltileurl="tiles/node34/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0">
+      <level preload="0" height="1520" predecode="0" width="1520"/>
+      <level preload="0" height="760" predecode="0" width="760"/>
+      <level preload="1" height="380" predecode="1" width="380"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="175.239" fovmode="0">
+      <start tilt="0" pan="0" fov="100" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" scaletofit="1" fovstereographic="270" tilt="90" pan="360" fov="120"/>
+    </view>
+    <userdata comment="" title="OG Flur 4" datetime="18.02.2024 10:46" heading="175.239" info="" description="OG Flur 4" source="" customnodeid="" copyright="" author="" altitude="304.80" latitude="49.593611" longitude="11.049250" nodeid="node34" tags="jpeg">
+      <mapcoords y="-0.593262" x="0.75943" y_floorplan_percent="53.0061" mapid="FloorPlan02" x_floorplan_percent="48.8948"/>
+    </userdata>
+    <hotspots smoothmovement="0" wordwrap="1" height="20" width="180">
+      <label textalpha="1" wordwrap="1" backgroundalpha="1" borderalpha="1" bordercolor="0x000000" backgroundcolor="0xffffff" width="180" background="1" border="1" height="20" borderradius="1" enabled="0" textcolor="0x000000"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot title="OG Schlafzimmer" description="" target="$fwd" pan="267.434" distance="2.01816" url="{node35}" skinid="ht_node" tilt="-2.65" id="Point01"/>
+      <hotspot title="OG Flur 3" description="" target="$fwd" pan="90.468" distance="3.11346" url="{node33}" skinid="ht_node" tilt="-4.5" id="Point03"/>
+      <hotspot title="OG AKZ" description="" target="$fwd" pan="182.303" distance="7.32761" url="{node60}" skinid="ht_node" tilt="-3.21" id="Point02"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomfov="20" zoomafterinfov="90" zoomoutpause="1" softedge="0" type="crossdissolve" zoomspeed="2" zoomin="0" enabled="1" delay="none" zoomafteroutfov="20" zoomout="0" blendcolor="0x000000"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
+    <control speedwheel="1" sensitivity="8" simulatemass="1" lockedwheel="0" invertwheel="1" dblclickfullscreen="0" lockedkeyboardzoom="0" contextvr="1" zoomcentercursor="1" hideabout="1" lockedkeyboard="0" contextprojections="0" rubberband="0" lockedmouse="0" contextfullscreen="1" invertcontrol="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node61">
+    <input levelbiashidpi="1.000" levelbias="0.400" overlap="1" width="1520" levelingpitch="0" height="1520" leveltilesize="510" leveltileurl="tiles/node61/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0">
+      <level preload="0" height="1520" predecode="0" width="1520"/>
+      <level preload="0" height="760" predecode="0" width="760"/>
+      <level preload="1" height="380" predecode="1" width="380"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-176.875" fovmode="0">
+      <start tilt="0" pan="0" fov="100" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" scaletofit="1" fovstereographic="330" tilt="90" pan="360" fov="140"/>
+    </view>
+    <userdata comment="" title="OG Bad Dusche" datetime="12.10.2024 16:41" heading="-176.875" info="" description="OG Bad Dusche" source="" customnodeid="" copyright="" author="" altitude="308.60" latitude="49.593528" longitude="11.049333" nodeid="node61" tags="Pano2VR7">
+      <mapcoords y="-0.363922" x="1.3678" y_floorplan_percent="32.5153" mapid="FloorPlan02" x_floorplan_percent="88.0637"/>
+    </userdata>
+    <hotspots smoothmovement="0" wordwrap="1" height="20" width="180">
+      <label textalpha="1" wordwrap="1" backgroundalpha="1" borderalpha="1" bordercolor="0x000000" backgroundcolor="0xffffff" width="180" background="1" border="1" height="20" borderradius="1" enabled="0" textcolor="0x000000"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot title="OG Bad" description="" target="$fwd" pan="-81.153" distance="8.55519" url="{node28}" skinid="ht_node" tilt="-1.01" id="Point01"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomfov="20" zoomafterinfov="90" zoomoutpause="1" softedge="0" type="crossdissolve" zoomspeed="2" zoomin="0" enabled="1" delay="none" zoomafteroutfov="20" zoomout="0" blendcolor="0x000000"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
+    <control speedwheel="1" sensitivity="8" simulatemass="1" lockedwheel="0" invertwheel="1" dblclickfullscreen="0" lockedkeyboardzoom="0" contextvr="1" zoomcentercursor="1" hideabout="1" lockedkeyboard="0" contextprojections="0" rubberband="0" lockedmouse="0" contextfullscreen="1" invertcontrol="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node62">
+    <input levelbiashidpi="1.000" levelbias="0.400" overlap="1" width="1520" levelingpitch="0" height="1520" leveltilesize="510" leveltileurl="tiles/node62/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0">
+      <level preload="0" height="1520" predecode="0" width="1520"/>
+      <level preload="0" height="760" predecode="0" width="760"/>
+      <level preload="1" height="380" predecode="1" width="380"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-183.219" fovmode="0">
+      <start tilt="0" pan="0" fov="100" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" scaletofit="1" fovstereographic="330" tilt="90" pan="360" fov="140"/>
+    </view>
+    <userdata comment="" title="OG Bad WC" datetime="12.10.2024 16:41" heading="-183.219" info="" description="OG Bad WC" source="" customnodeid="" copyright="" author="" altitude="308.90" latitude="49.593528" longitude="11.049333" nodeid="node62" tags="Pano2VR7">
+      <mapcoords y="-0.552063" x="1.36917" y_floorplan_percent="49.3252" mapid="FloorPlan02" x_floorplan_percent="88.1521"/>
+    </userdata>
+    <hotspots smoothmovement="0" wordwrap="1" height="20" width="180">
+      <label textalpha="1" wordwrap="1" backgroundalpha="1" borderalpha="1" bordercolor="0x000000" backgroundcolor="0xffffff" width="180" background="1" border="1" height="20" borderradius="1" enabled="0" textcolor="0x000000"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot title="OG Bad" description="" target="$fwd" pan="-89.5175" distance="8.55519" url="{node28}" skinid="ht_node" tilt="-0.82" id="Point01"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomfov="20" zoomafterinfov="90" zoomoutpause="1" softedge="0" type="crossdissolve" zoomspeed="2" zoomin="0" enabled="1" delay="none" zoomafteroutfov="20" zoomout="0" blendcolor="0x000000"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
+    <control speedwheel="1" sensitivity="8" simulatemass="1" lockedwheel="0" invertwheel="1" dblclickfullscreen="0" lockedkeyboardzoom="0" contextvr="1" zoomcentercursor="1" hideabout="1" lockedkeyboard="0" contextprojections="0" rubberband="0" lockedmouse="0" contextfullscreen="1" invertcontrol="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node30">
+    <input levelbiashidpi="1.000" levelbias="0.400" overlap="1" width="1520" levelingpitch="0" height="1520" leveltilesize="510" leveltileurl="tiles/node30/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0">
+      <level preload="0" height="1520" predecode="0" width="1520"/>
+      <level preload="0" height="760" predecode="0" width="760"/>
+      <level preload="1" height="380" predecode="1" width="380"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="180.405" fovmode="0">
+      <start tilt="0" pan="0" fov="100" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" scaletofit="1" fovstereographic="270" tilt="90" pan="360" fov="120"/>
+    </view>
+    <userdata comment="" title="OG Bastelzimmer" datetime="18.02.2024 10:46" heading="180.405" info="" description="OG Bastelzimmer" source="" customnodeid="" copyright="" author="" altitude="304.80" latitude="49.593583" longitude="11.049222" nodeid="node30" tags="jpeg">
+      <mapcoords y="-0.785522" x="0.498505" y_floorplan_percent="70.184" mapid="FloorPlan02" x_floorplan_percent="32.0955"/>
+    </userdata>
+    <hotspots smoothmovement="0" wordwrap="1" height="20" width="180">
+      <label textalpha="1" wordwrap="1" backgroundalpha="1" borderalpha="1" bordercolor="0x000000" backgroundcolor="0xffffff" width="180" background="1" border="1" height="20" borderradius="1" enabled="0" textcolor="0x000000"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot title="OG Flur 1" description="" target="$fwd" pan="115.57" distance="3.11346" url="{node31}" skinid="ht_node" tilt="-5.87" id="Point01"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomfov="20" zoomafterinfov="90" zoomoutpause="1" softedge="0" type="crossdissolve" zoomspeed="2" zoomin="0" enabled="1" delay="none" zoomafteroutfov="20" zoomout="0" blendcolor="0x000000"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
+    <control speedwheel="1" sensitivity="8" simulatemass="1" lockedwheel="0" invertwheel="1" dblclickfullscreen="0" lockedkeyboardzoom="0" contextvr="1" zoomcentercursor="1" hideabout="1" lockedkeyboard="0" contextprojections="0" rubberband="0" lockedmouse="0" contextfullscreen="1" invertcontrol="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node69">
+    <input levelbiashidpi="1.000" levelbias="0.400" overlap="1" width="1520" levelingpitch="0" height="1520" leveltilesize="510" leveltileurl="tiles/node69/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0">
+      <level preload="0" height="1520" predecode="0" width="1520"/>
+      <level preload="0" height="760" predecode="0" width="760"/>
+      <level preload="1" height="380" predecode="1" width="380"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-176.357" fovmode="0">
+      <start tilt="0" pan="0" fov="100" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" scaletofit="1" fovstereographic="330" tilt="90" pan="360" fov="140"/>
+    </view>
+    <userdata comment="" title="OG KiZi" datetime="12.10.2024 16:39" heading="-176.357" info="" description="OG KiZi" source="" customnodeid="" copyright="" author="" altitude="310.20" latitude="49.593667" longitude="11.049306" nodeid="node69" tags="Pano2VR7">
+      <mapcoords y="-0.77179" x="1.2648" y_floorplan_percent="68.9571" mapid="FloorPlan02" x_floorplan_percent="81.4324"/>
+    </userdata>
+    <hotspots smoothmovement="0" wordwrap="1" height="20" width="180">
+      <label textalpha="1" wordwrap="1" backgroundalpha="1" borderalpha="1" bordercolor="0x000000" backgroundcolor="0xffffff" width="180" background="1" border="1" height="20" borderradius="1" enabled="0" textcolor="0x000000"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot title="OG Flur 2" description="" target="$fwd" pan="248.909" distance="11.131" url="{node32}" skinid="ht_node" tilt="-1.85" id="Point01"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomfov="20" zoomafterinfov="90" zoomoutpause="1" softedge="0" type="crossdissolve" zoomspeed="2" zoomin="0" enabled="1" delay="none" zoomafteroutfov="20" zoomout="0" blendcolor="0x000000"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
+    <control speedwheel="1" sensitivity="8" simulatemass="1" lockedwheel="0" invertwheel="1" dblclickfullscreen="0" lockedkeyboardzoom="0" contextvr="1" zoomcentercursor="1" hideabout="1" lockedkeyboard="0" contextprojections="0" rubberband="0" lockedmouse="0" contextfullscreen="1" invertcontrol="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node60">
+    <input levelbiashidpi="1.000" levelbias="0.400" overlap="1" width="1520" levelingpitch="0" height="1520" leveltilesize="510" leveltileurl="tiles/node60/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0">
+      <level preload="0" height="1520" predecode="0" width="1520"/>
+      <level preload="0" height="760" predecode="0" width="760"/>
+      <level preload="1" height="380" predecode="1" width="380"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-181.479" fovmode="0">
+      <start tilt="0" pan="0" fov="100" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" scaletofit="1" fovstereographic="330" tilt="90" pan="360" fov="140"/>
+    </view>
+    <userdata comment="" title="OG AKZ" datetime="12.10.2024 16:42" heading="-181.479" info="" description="OG AKZ" source="" customnodeid="" copyright="" author="" altitude="307.90" latitude="49.593556" longitude="11.049306" nodeid="node60" tags="Pano2VR7">
+      <mapcoords y="-0.387268" x="0.756683" y_floorplan_percent="34.6012" mapid="FloorPlan02" x_floorplan_percent="48.7179"/>
+    </userdata>
+    <hotspots smoothmovement="0" wordwrap="1" height="20" width="180">
+      <label textalpha="1" wordwrap="1" backgroundalpha="1" borderalpha="1" bordercolor="0x000000" backgroundcolor="0xffffff" width="180" background="1" border="1" height="20" borderradius="1" enabled="0" textcolor="0x000000"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot title="OG Flur 4" description="" target="$fwd" pan="-1.14611" distance="7.32761" url="{node34}" skinid="ht_node" tilt="-0.78" id="Point01"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomfov="20" zoomafterinfov="90" zoomoutpause="1" softedge="0" type="crossdissolve" zoomspeed="2" zoomin="0" enabled="1" delay="none" zoomafteroutfov="20" zoomout="0" blendcolor="0x000000"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
+    <control speedwheel="1" sensitivity="8" simulatemass="1" lockedwheel="0" invertwheel="1" dblclickfullscreen="0" lockedkeyboardzoom="0" contextvr="1" zoomcentercursor="1" hideabout="1" lockedkeyboard="0" contextprojections="0" rubberband="0" lockedmouse="0" contextfullscreen="1" invertcontrol="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node35">
+    <input levelbiashidpi="1.000" levelbias="0.400" overlap="1" width="1520" levelingpitch="0" height="1520" leveltilesize="510" leveltileurl="tiles/node35/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0">
+      <level preload="0" height="1520" predecode="0" width="1520"/>
+      <level preload="0" height="760" predecode="0" width="760"/>
+      <level preload="1" height="380" predecode="1" width="380"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="180.741" fovmode="0">
+      <start tilt="0" pan="0" fov="100" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" scaletofit="1" fovstereographic="270" tilt="90" pan="360" fov="120"/>
+    </view>
+    <userdata comment="" title="OG Schlafzimmer" datetime="18.02.2024 10:48" heading="180.741" info="" description="OG Schlafzimmer" source="" customnodeid="" copyright="" author="" altitude="305.40" latitude="49.593611" longitude="11.049222" nodeid="node35" tags="jpeg">
+      <mapcoords y="-0.506744" x="0.392761" y_floorplan_percent="45.2761" mapid="FloorPlan02" x_floorplan_percent="25.2874"/>
+    </userdata>
+    <hotspots smoothmovement="0" wordwrap="1" height="20" width="180">
+      <label textalpha="1" wordwrap="1" backgroundalpha="1" borderalpha="1" bordercolor="0x000000" backgroundcolor="0xffffff" width="180" background="1" border="1" height="20" borderradius="1" enabled="0" textcolor="0x000000"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot title="OG Flur 4" description="" target="$fwd" pan="65.1257" distance="2.01816" url="{node34}" skinid="ht_node" tilt="-3.46" id="Point03"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomfov="20" zoomafterinfov="90" zoomoutpause="1" softedge="0" type="crossdissolve" zoomspeed="2" zoomin="0" enabled="1" delay="none" zoomafteroutfov="20" zoomout="0" blendcolor="0x000000"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
+    <control speedwheel="1" sensitivity="8" simulatemass="1" lockedwheel="0" invertwheel="1" dblclickfullscreen="0" lockedkeyboardzoom="0" contextvr="1" zoomcentercursor="1" hideabout="1" lockedkeyboard="0" contextprojections="0" rubberband="0" lockedmouse="0" contextfullscreen="1" invertcontrol="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node42">
+    <input levelbiashidpi="1.000" levelbias="0.400" overlap="1" width="1520" levelingpitch="0" height="1520" leveltilesize="510" leveltileurl="tiles/node42/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0">
+      <level preload="0" height="1520" predecode="0" width="1520"/>
+      <level preload="0" height="760" predecode="0" width="760"/>
+      <level preload="1" height="380" predecode="1" width="380"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-177.576" fovmode="0">
+      <start tilt="0" pan="0" fov="100" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" scaletofit="1" fovstereographic="330" tilt="90" pan="360" fov="140"/>
+    </view>
+    <userdata comment="" title="DG Flur 1" datetime="12.10.2024 16:42" heading="-177.576" info="" description="DG Flur 1" source="" customnodeid="" copyright="" author="" altitude="307.60" latitude="49.593556" longitude="11.049278" nodeid="node42" tags="Pano2VR7">
+      <mapcoords y="-1.28265" x="1.61774" y_floorplan_percent="61.0458" mapid="FloorPlan03" x_floorplan_percent="61.8048"/>
+    </userdata>
+    <hotspots smoothmovement="0" wordwrap="1" height="20" width="180">
+      <label textalpha="1" wordwrap="1" backgroundalpha="1" borderalpha="1" bordercolor="0x000000" backgroundcolor="0xffffff" width="180" background="1" border="1" height="20" borderradius="1" enabled="0" textcolor="0x000000"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot title="DG Flur 2" description="" target="$fwd" pan="-90.8996" distance="5.04072" url="{node43}" skinid="ht_node" tilt="-0.71" id="Point01"/>
+      <hotspot title="DG Bad" description="" target="$fwd" pan="-164.513" distance="5.04072" url="{node41}" skinid="ht_node" tilt="-0.81" id="Point02"/>
+      <hotspot title="DG Rechts" description="" target="$fwd" pan="-263.104" distance="3.71034" url="{node45}" skinid="ht_node" tilt="-2.3" id="Point03"/>
+      <hotspot title="" description="" target="" pan="-18.16" distance="7.32761" url="{node31}" skinid="ht_node" tilt="-31.4" id="OG Flur"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomfov="20" zoomafterinfov="90" zoomoutpause="1" softedge="0" type="crossdissolve" zoomspeed="2" zoomin="0" enabled="1" delay="none" zoomafteroutfov="20" zoomout="0" blendcolor="0x000000"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
+    <control speedwheel="1" sensitivity="8" simulatemass="1" lockedwheel="0" invertwheel="1" dblclickfullscreen="0" lockedkeyboardzoom="0" contextvr="1" zoomcentercursor="1" hideabout="1" lockedkeyboard="0" contextprojections="0" rubberband="0" lockedmouse="0" contextfullscreen="1" invertcontrol="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node43">
+    <input levelbiashidpi="1.000" levelbias="0.400" overlap="1" width="1520" levelingpitch="0" height="1520" leveltilesize="510" leveltileurl="tiles/node43/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0">
+      <level preload="0" height="1520" predecode="0" width="1520"/>
+      <level preload="0" height="760" predecode="0" width="760"/>
+      <level preload="1" height="380" predecode="1" width="380"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-178.698" fovmode="0">
+      <start tilt="0" pan="0" fov="100" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" scaletofit="1" fovstereographic="330" tilt="90" pan="360" fov="140"/>
+    </view>
+    <userdata comment="" title="DG Flur 2" datetime="12.10.2024 16:43" heading="-178.698" info="" description="DG Flur 2" source="" customnodeid="" copyright="" author="" altitude="304.30" latitude="49.593528" longitude="11.049333" nodeid="node43" tags="Pano2VR7">
+      <mapcoords y="-1.28815" x="1.24146" y_floorplan_percent="61.3072" mapid="FloorPlan03" x_floorplan_percent="47.4292"/>
+    </userdata>
+    <hotspots smoothmovement="0" wordwrap="1" height="20" width="180">
+      <label textalpha="1" wordwrap="1" backgroundalpha="1" borderalpha="1" bordercolor="0x000000" backgroundcolor="0xffffff" width="180" background="1" border="1" height="20" borderradius="1" enabled="0" textcolor="0x000000"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot title="DG Flur 1" description="" target="$fwd" pan="-273.552" distance="5.04072" url="{node42}" skinid="ht_node" tilt="-6.04" id="Point01"/>
+      <hotspot title="DG Links" url="{node44}" skinid="ht_node" description="" tilt="-1.08" target="$fwd" pan="-99.8565" id="Point02"/>
+      <hotspot title="" description="" target="" pan="-341.92" distance="12.2142" url="{node31}" skinid="ht_node" tilt="-34.24" id="OG Flur"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomfov="20" zoomafterinfov="90" zoomoutpause="1" softedge="0" type="crossdissolve" zoomspeed="2" zoomin="0" enabled="1" delay="none" zoomafteroutfov="20" zoomout="0" blendcolor="0x000000"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
+    <control speedwheel="1" sensitivity="8" simulatemass="1" lockedwheel="0" invertwheel="1" dblclickfullscreen="0" lockedkeyboardzoom="0" contextvr="1" zoomcentercursor="1" hideabout="1" lockedkeyboard="0" contextprojections="0" rubberband="0" lockedmouse="0" contextfullscreen="1" invertcontrol="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node41">
+    <input levelbiashidpi="1.000" levelbias="0.400" overlap="1" width="1520" levelingpitch="0" height="1520" leveltilesize="510" leveltileurl="tiles/node41/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0">
+      <level preload="0" height="1520" predecode="0" width="1520"/>
+      <level preload="0" height="760" predecode="0" width="760"/>
+      <level preload="1" height="380" predecode="1" width="380"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-176.73" fovmode="0">
+      <start tilt="0" pan="0" fov="100" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" scaletofit="1" fovstereographic="330" tilt="90" pan="360" fov="140"/>
+    </view>
+    <userdata comment="" title="DG Bad" datetime="12.10.2024 16:43" heading="-176.73" info="" description="DG Bad" source="" customnodeid="" copyright="" author="" altitude="305.40" latitude="49.593528" longitude="11.049333" nodeid="node41" tags="Pano2VR7">
+      <mapcoords y="-0.865173" x="1.41174" y_floorplan_percent="41.1765" mapid="FloorPlan03" x_floorplan_percent="53.9349"/>
+    </userdata>
+    <hotspots smoothmovement="0" wordwrap="1" height="20" width="180">
+      <label textalpha="1" wordwrap="1" backgroundalpha="1" borderalpha="1" bordercolor="0x000000" backgroundcolor="0xffffff" width="180" background="1" border="1" height="20" borderradius="1" enabled="0" textcolor="0x000000"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot title="DG Flur 1" description="" target="$fwd" pan="-338.027" distance="5.04072" url="{node42}" skinid="ht_node" tilt="-7.61" id="Point01"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomfov="20" zoomafterinfov="90" zoomoutpause="1" softedge="0" type="crossdissolve" zoomspeed="2" zoomin="0" enabled="1" delay="none" zoomafteroutfov="20" zoomout="0" blendcolor="0x000000"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
+    <control speedwheel="1" sensitivity="8" simulatemass="1" lockedwheel="0" invertwheel="1" dblclickfullscreen="0" lockedkeyboardzoom="0" contextvr="1" zoomcentercursor="1" hideabout="1" lockedkeyboard="0" contextprojections="0" rubberband="0" lockedmouse="0" contextfullscreen="1" invertcontrol="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node44">
+    <input levelbiashidpi="1.000" levelbias="0.400" overlap="1" width="1520" levelingpitch="0" height="1520" leveltilesize="510" leveltileurl="tiles/node44/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0">
+      <level preload="0" height="1520" predecode="0" width="1520"/>
+      <level preload="0" height="760" predecode="0" width="760"/>
+      <level preload="1" height="380" predecode="1" width="380"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-172.559" fovmode="0">
+      <start tilt="0" pan="0" fov="100" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" scaletofit="1" fovstereographic="330" tilt="90" pan="360" fov="140"/>
+    </view>
+    <userdata comment="" title="DG Links" datetime="12.10.2024 16:43" heading="-172.559" info="" description="DG Links" source="" customnodeid="" copyright="" author="" altitude="305.00" latitude="49.593528" longitude="11.049333" nodeid="node44" tags="Pano2VR7">
+      <mapcoords y="-1.20575" x="0.667419" y_floorplan_percent="57.3856" mapid="FloorPlan03" x_floorplan_percent="25.4984"/>
+    </userdata>
+    <hotspots smoothmovement="0" wordwrap="1" height="20" width="180">
+      <label textalpha="1" wordwrap="1" backgroundalpha="1" borderalpha="1" bordercolor="0x000000" backgroundcolor="0xffffff" width="180" background="1" border="1" height="20" borderradius="1" enabled="0" textcolor="0x000000"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot title="DG Flur 2" url="{node43}" skinid="ht_node" description="" tilt="-6.78" target="$fwd" pan="-275.657" id="Point01"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomfov="20" zoomafterinfov="90" zoomoutpause="1" softedge="0" type="crossdissolve" zoomspeed="2" zoomin="0" enabled="1" delay="none" zoomafteroutfov="20" zoomout="0" blendcolor="0x000000"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
+    <control speedwheel="1" sensitivity="8" simulatemass="1" lockedwheel="0" invertwheel="1" dblclickfullscreen="0" lockedkeyboardzoom="0" contextvr="1" zoomcentercursor="1" hideabout="1" lockedkeyboard="0" contextprojections="0" rubberband="0" lockedmouse="0" contextfullscreen="1" invertcontrol="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node45">
+    <input levelbiashidpi="1.000" levelbias="0.400" overlap="1" width="1520" levelingpitch="0" height="1520" leveltilesize="510" leveltileurl="tiles/node45/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0">
+      <level preload="0" height="1520" predecode="0" width="1520"/>
+      <level preload="0" height="760" predecode="0" width="760"/>
+      <level preload="1" height="380" predecode="1" width="380"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-174.57" fovmode="0">
+      <start tilt="0" pan="0" fov="100" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" scaletofit="1" fovstereographic="330" tilt="90" pan="360" fov="140"/>
+    </view>
+    <userdata comment="" title="DG Rechts" datetime="12.10.2024 16:43" heading="-174.57" info="" description="DG Rechts" source="" customnodeid="" copyright="" author="" altitude="307.00" latitude="49.593528" longitude="11.049306" nodeid="node45" tags="Pano2VR7">
+      <mapcoords y="-1.18103" x="2.10114" y_floorplan_percent="56.2092" mapid="FloorPlan03" x_floorplan_percent="80.2728"/>
+    </userdata>
+    <hotspots smoothmovement="0" wordwrap="1" height="20" width="180">
+      <label textalpha="1" wordwrap="1" backgroundalpha="1" borderalpha="1" bordercolor="0x000000" backgroundcolor="0xffffff" width="180" background="1" border="1" height="20" borderradius="1" enabled="0" textcolor="0x000000"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot title="DG Flur 1" description="" target="$fwd" pan="-83.3277" distance="3.71034" url="{node42}" skinid="ht_node" tilt="-0.47" id="Point01"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomfov="20" zoomafterinfov="90" zoomoutpause="1" softedge="0" type="crossdissolve" zoomspeed="2" zoomin="0" enabled="1" delay="none" zoomafteroutfov="20" zoomout="0" blendcolor="0x000000"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
+    <control speedwheel="1" sensitivity="8" simulatemass="1" lockedwheel="0" invertwheel="1" dblclickfullscreen="0" lockedkeyboardzoom="0" contextvr="1" zoomcentercursor="1" hideabout="1" lockedkeyboard="0" contextprojections="0" rubberband="0" lockedmouse="0" contextfullscreen="1" invertcontrol="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node56">
+    <input levelbiashidpi="1.000" levelbias="0.400" overlap="1" width="1520" levelingpitch="0" height="1520" leveltilesize="510" leveltileurl="tiles/node56/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0">
+      <level preload="0" height="1520" predecode="0" width="1520"/>
+      <level preload="0" height="760" predecode="0" width="760"/>
+      <level preload="1" height="380" predecode="1" width="380"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-177.815" fovmode="0">
+      <start tilt="0" pan="0" fov="100" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" scaletofit="1" fovstereographic="330" tilt="90" pan="360" fov="140"/>
+    </view>
+    <userdata comment="" title="Keller Eingang" datetime="12.10.2024 16:29" heading="-177.815" info="" description="Keller Eingang" source="" customnodeid="" copyright="" author="" latitude="" longitude="" nodeid="node56" tags="Pano2VR7">
+      <mapcoords y="-0.42572" x="0.977783" y_floorplan_percent="35.6732" mapid="FloorPlan01" x_floorplan_percent="62.6761"/>
+      <mapcoords y="-0.488892" x="1.27441" y_floorplan_percent="19.0987" mapid="FloorPlan04" x_floorplan_percent="49.1525"/>
+    </userdata>
+    <hotspots smoothmovement="0" wordwrap="1" height="20" width="180">
+      <label textalpha="1" wordwrap="1" backgroundalpha="1" borderalpha="1" bordercolor="0x000000" backgroundcolor="0xffffff" width="180" background="1" border="1" height="20" borderradius="1" enabled="0" textcolor="0x000000"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot title="EG Eingang HWR" url="{node48}" skinid="ht_node" description="" tilt="17.09" target="$fwd" pan="-89.4588" id="Point01"/>
+      <hotspot title="Keller Mitte" url="{node58}" skinid="ht_node" description="" tilt="-9.77" target="$fwd" pan="-354.857" id="Point02"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomfov="20" zoomafterinfov="90" zoomoutpause="1" softedge="0" type="crossdissolve" zoomspeed="2" zoomin="0" enabled="1" delay="none" zoomafteroutfov="20" zoomout="0" blendcolor="0x000000"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
+    <control speedwheel="1" sensitivity="8" simulatemass="1" lockedwheel="0" invertwheel="1" dblclickfullscreen="0" lockedkeyboardzoom="0" contextvr="1" zoomcentercursor="1" hideabout="1" lockedkeyboard="0" contextprojections="0" rubberband="0" lockedmouse="0" contextfullscreen="1" invertcontrol="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node57">
+    <input levelbiashidpi="1.000" levelbias="0.400" overlap="1" width="1520" levelingpitch="0" height="1520" leveltilesize="510" leveltileurl="tiles/node57/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0">
+      <level preload="0" height="1520" predecode="0" width="1520"/>
+      <level preload="0" height="760" predecode="0" width="760"/>
+      <level preload="1" height="380" predecode="1" width="380"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="179.054" fovmode="0">
+      <start tilt="0" pan="0" fov="100" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" scaletofit="1" fovstereographic="330" tilt="90" pan="360" fov="140"/>
+    </view>
+    <userdata comment="" title="Keller Links" datetime="12.10.2024 16:29" heading="179.054" info="" description="Keller Links" source="" customnodeid="" copyright="" author="" latitude="" longitude="" nodeid="node57" tags="Pano2VR7">
+      <mapcoords y="-0.999756" x="1.96655" y_floorplan_percent="39.0558" mapid="FloorPlan04" x_floorplan_percent="75.8475"/>
+    </userdata>
+    <hotspots smoothmovement="0" wordwrap="1" height="20" width="180">
+      <label textalpha="1" wordwrap="1" backgroundalpha="1" borderalpha="1" bordercolor="0x000000" backgroundcolor="0xffffff" width="180" background="1" border="1" height="20" borderradius="1" enabled="0" textcolor="0x000000"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot title="Keller Mitte" url="{node58}" skinid="ht_node" description="" tilt="-4.61" target="$fwd" pan="255.025" id="Point01"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomfov="20" zoomafterinfov="90" zoomoutpause="1" softedge="0" type="crossdissolve" zoomspeed="2" zoomin="0" enabled="1" delay="none" zoomafteroutfov="20" zoomout="0" blendcolor="0x000000"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
+    <control speedwheel="1" sensitivity="8" simulatemass="1" lockedwheel="0" invertwheel="1" dblclickfullscreen="0" lockedkeyboardzoom="0" contextvr="1" zoomcentercursor="1" hideabout="1" lockedkeyboard="0" contextprojections="0" rubberband="0" lockedmouse="0" contextfullscreen="1" invertcontrol="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node58">
+    <input levelbiashidpi="1.000" levelbias="0.400" overlap="1" width="1520" levelingpitch="0" height="1520" leveltilesize="510" leveltileurl="tiles/node58/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0">
+      <level preload="0" height="1520" predecode="0" width="1520"/>
+      <level preload="0" height="760" predecode="0" width="760"/>
+      <level preload="1" height="380" predecode="1" width="380"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="181.21" fovmode="0">
+      <start tilt="0" pan="0" fov="100" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" scaletofit="1" fovstereographic="330" tilt="90" pan="360" fov="140"/>
+    </view>
+    <userdata comment="" title="Keller Mitte" datetime="12.10.2024 16:29" heading="181.21" info="" description="Keller Mitte" source="" customnodeid="" copyright="" author="" latitude="" longitude="" nodeid="node58" tags="Pano2VR7">
+      <mapcoords y="-0.85144" x="1.29639" y_floorplan_percent="33.2618" mapid="FloorPlan04" x_floorplan_percent="50"/>
+    </userdata>
+    <hotspots smoothmovement="0" wordwrap="1" height="20" width="180">
+      <label textalpha="1" wordwrap="1" backgroundalpha="1" borderalpha="1" bordercolor="0x000000" backgroundcolor="0xffffff" width="180" background="1" border="1" height="20" borderradius="1" enabled="0" textcolor="0x000000"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot title="Keller Eingang" url="{node56}" skinid="ht_node" description="" tilt="-10.7" target="$fwd" pan="185.418" id="Point01"/>
+      <hotspot title="Keller Links" url="{node57}" skinid="ht_node" description="" tilt="-10.35" target="$fwd" pan="81.5909" id="Point02"/>
+      <hotspot title="Keller Rechts" url="{node59}" skinid="ht_node" description="" tilt="-9.46" target="$fwd" pan="286.741" id="Point03"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomfov="20" zoomafterinfov="90" zoomoutpause="1" softedge="0" type="crossdissolve" zoomspeed="2" zoomin="0" enabled="1" delay="none" zoomafteroutfov="20" zoomout="0" blendcolor="0x000000"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
+    <control speedwheel="1" sensitivity="8" simulatemass="1" lockedwheel="0" invertwheel="1" dblclickfullscreen="0" lockedkeyboardzoom="0" contextvr="1" zoomcentercursor="1" hideabout="1" lockedkeyboard="0" contextprojections="0" rubberband="0" lockedmouse="0" contextfullscreen="1" invertcontrol="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node59">
+    <input levelbiashidpi="1.000" levelbias="0.400" overlap="1" width="1520" levelingpitch="0" height="1520" leveltilesize="510" leveltileurl="tiles/node59/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0">
+      <level preload="0" height="1520" predecode="0" width="1520"/>
+      <level preload="0" height="760" predecode="0" width="760"/>
+      <level preload="1" height="380" predecode="1" width="380"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-179.458" fovmode="0">
+      <start tilt="0" pan="0" fov="100" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" scaletofit="1" fovstereographic="330" tilt="90" pan="360" fov="140"/>
+    </view>
+    <userdata comment="" title="Keller Rechts" datetime="12.10.2024 16:30" heading="-179.458" info="" description="Keller Rechts" source="" customnodeid="" copyright="" author="" latitude="" longitude="" nodeid="node59" tags="Pano2VR7">
+      <mapcoords y="-0.994263" x="0.791016" y_floorplan_percent="38.8412" mapid="FloorPlan04" x_floorplan_percent="30.5085"/>
+    </userdata>
+    <hotspots smoothmovement="0" wordwrap="1" height="20" width="180">
+      <label textalpha="1" wordwrap="1" backgroundalpha="1" borderalpha="1" bordercolor="0x000000" backgroundcolor="0xffffff" width="180" background="1" border="1" height="20" borderradius="1" enabled="0" textcolor="0x000000"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" mode="0" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot title="Keller Mitte" url="{node58}" skinid="ht_node" description="" tilt="-6.52" target="$fwd" pan="-246.107" id="Point01"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomfov="20" zoomafterinfov="90" zoomoutpause="1" softedge="0" type="crossdissolve" zoomspeed="2" zoomin="0" enabled="1" delay="none" zoomafteroutfov="20" zoomout="0" blendcolor="0x000000"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
+    <control speedwheel="1" sensitivity="8" simulatemass="1" lockedwheel="0" invertwheel="1" dblclickfullscreen="0" lockedkeyboardzoom="0" contextvr="1" zoomcentercursor="1" hideabout="1" lockedkeyboard="0" contextprojections="0" rubberband="0" lockedmouse="0" contextfullscreen="1" invertcontrol="1"/>
+  </panorama>
+  <masternode>
+    <userdata comment="" title="" description="" tags="" copyright="" author=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+  <map title="" tileformat="jpg" width="1136" type="file" zoomlevels="1" transparent="0" height="869" crispedges="0" index="0" bgcolor="rgba(255, 255, 255, 1)" floorplannorth="359.34" id="FloorPlan01"/>
+  <map title="" tileformat="jpg" width="1131" type="file" zoomlevels="1" transparent="0" height="815" crispedges="0" index="1" bgcolor="rgba(255, 255, 255, 1)" floorplannorth="1.67" id="FloorPlan02"/>
+  <map title="" tileformat="jpg" width="953" type="file" zoomlevels="1" transparent="0" height="765" crispedges="0" index="2" bgcolor="rgba(255, 255, 255, 1)" floorplannorth="356.33" id="FloorPlan03"/>
+  <map title="" tileformat="jpg" width="944" type="file" zoomlevels="1" transparent="0" height="932" crispedges="0" index="3" bgcolor="rgba(255, 255, 255, 1)" floorplannorth="0" id="FloorPlan04"/>
+</tour>
